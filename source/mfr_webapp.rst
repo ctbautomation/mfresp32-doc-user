@@ -24,7 +24,7 @@ Beim erstmaligen Aufruf der MFR-WebApp müssen Sie sich mit Ihren Konto anmelden
    :scale: 100 %
    :alt: alternate text
 
-.. hint:: Die Login Daten erhalten die von Heizhausbetreiber.
+.. hint:: Die Login Daten erhalten Sie von Heizhausbetreiber.
 
 Anlagen Übersicht
 -----------------
